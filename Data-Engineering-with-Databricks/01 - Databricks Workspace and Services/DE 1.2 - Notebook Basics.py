@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #small change_local_21:08
+=======
+#small change_local_21:15
+>>>>>>> c492201df6dc26f45bf39dcc841abcc02b4f159c
 
 # Databricks notebook source
 # MAGIC %md-sandbox
