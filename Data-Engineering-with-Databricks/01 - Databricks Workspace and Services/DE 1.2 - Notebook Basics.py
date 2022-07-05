@@ -1,4 +1,4 @@
-#small change_remote
+#small change_local
 
 # Databricks notebook source
 # MAGIC %md-sandbox
